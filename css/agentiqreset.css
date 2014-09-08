@@ -1,0 +1,48 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+.agentiq html, .agentiq body, .agentiq div, .agentiq span, .agentiq applet, .agentiq object, .agentiq iframe,
+.agentiq h1, .agentiq h2, .agentiq h3, .agentiq h4, .agentiq h5, .agentiq h6, .agentiq p, .agentiq blockquote, .agentiq pre,
+.agentiq a, .agentiq abbr, .agentiq acronym, .agentiq address, .agentiq big, .agentiq cite, .agentiq code,
+.agentiq del, .agentiq dfn, .agentiq em, .agentiq img, .agentiq ins, .agentiq kbd, .agentiq q, .agentiq s, .agentiq samp,
+.agentiq small, .agentiq strike, .agentiq strong, .agentiq sub, .agentiq sup, .agentiq tt, .agentiq var,
+.agentiq b, .agentiq u, .agentiq i, .agentiq center,
+.agentiq dl, .agentiq dt, .agentiq dd, .agentiq ol, .agentiq ul, .agentiq li,
+.agentiq fieldset, .agentiq form, .agentiq label, .agentiq legend,
+.agentiq table, .agentiq caption, .agentiq tbody, .agentiq tfoot, .agentiq thead, .agentiq tr, .agentiq th, .agentiq td,
+.agentiq article, .agentiq aside, .agentiq canvas, .agentiq details, .agentiq embed, 
+.agentiq figure, .agentiq figcaption, .agentiq footer, .agentiq header, .agentiq hgroup, 
+.agentiq menu, .agentiq nav, .agentiq output, .agentiq ruby, .agentiq section, .agentiq summary,
+.agentiq time, .agentiq mark, .agentiq audio, .agentiq video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+.agentiq article, .agentiq aside, .agentiq details, .agentiq figcaption, .agentiq figure, 
+.agentiq footer, .agentiq header, .agentiq hgroup, .agentiq menu, .agentiq nav, .agentiq section {
+	display: block;
+}
+.agentiq body {
+	line-height: 1;
+}
+.agentiq ol, .agentiq ul {
+	list-style: none;
+}
+.agentiq blockquote, .agentiq q {
+	quotes: none;
+}
+.agentiq blockquote:before, .agentiq blockquote:after,
+.agentiq q:before, .agentiq q:after {
+	content: '';
+	content: none;
+}
+.agentiq table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}

@@ -1,0 +1,159 @@
+html.agentiq {
+position:relative;
+height:100%;
+width:100%;
+}
+.agentiq html {
+font-family:arial,sans-serif;
+line-height:1.5;
+font-size:0.9em;
+
+}
+.agentiq body {
+position:relative;
+width:100%;
+
+font-family:arial,sans-serif;
+line-height:1.5;
+font-size:0.9em;
+text-align: center;
+}
+.agentiq h1 {
+font-size:1.8em;
+}
+.agentiq h2 {
+font-size:1.2em;
+text-transform:uppercase;
+margin-top:30px;
+}
+.agentiq p, .agentiq ul {
+max-width:800px;
+padding-top:8px;
+}
+.agentiq li {
+padding-top:10px;
+}
+.agentiq i {
+font-style:italic;
+}
+.agentiq b {
+font-weight:bold;
+}
+
+#post_comment {
+display:block;
+}
+.agentiq #wrapper {
+padding:20px;
+}
+.agentiq #devices {
+padding-top:20px;
+}
+.agentiq #header {
+position:relative;
+height:248px;
+width:100%;
+}
+.agentiq #qr {
+position:absolute;
+left:590px;
+top:-10px;
+}
+.agentiq #menu {
+margin-bottom:20px;
+margin-left:10px;
+}
+.agentiq #menu a {
+padding-right:10px;
+}
+.agentiq #menu a:link, .agentiq #menu a:visited{
+text-decoration:none;
+color:black;
+}
+.agentiq #menu a:hover {
+color:#FF3E3E;
+}
+.agentiq #footer {
+width:100%;
+height:80px;
+}
+.agentiq table {
+font-size:0.7em;
+table-layout: fixed;
+z-index:10;
+position:relative;
+}
+.agentiq table, .agentiq tr, .agentiq td
+{
+border: 1px solid black;
+}
+.agentiq td {
+padding:3px;
+word-wrap: break-word;
+
+}
+.agentiq .true, .agentiq .false, .agentiq .title {
+width:18px;
+overflow:hidden;
+white-space:nowrap;
+}
+.agentiq .tdwrap {
+width:18px;
+display:block;
+overflow:hidden;
+height:30px;
+}
+.agentiq .tdwrap:hover {
+width:auto;
+font-size:1.3em;
+overflow: visible;
+color:black;
+cursor:default;
+}
+.agentiq .uagent {
+
+width:200px;
+}
+.agentiq .official {
+background:#47E9FF;
+}
+.agentiq .title td {
+background:#47E9FF;
+color:gray;
+text-transform:all-caps;
+font-weight:bold;
+}
+.agentiq .active {
+font-weight:bold;
+font-size:1.1em;
+}
+.agentiq .true {
+background:#E3FBDE;
+}
+.agentiq .desktop {
+background:#FBFBDE;
+}
+.agentiq .mobile, .agentiq .aiq  {
+background:#DEDEFB;
+}
+.agentiq .aiq span{
+display:block;
+text-align:center;
+}
+.agentiq .aiq .size{
+font-weight:bold;
+}
+.agentiq .aiq .sizecat{
+font-size:0.9em;
+}
+.agentiq #twitter-wrapper {
+position:absolute;
+left:1082px;
+top:-86px;
+font-size:0.85em;
+}
+
+.agentiq .loading {
+margin-left:auto;
+margin-right:auto;
+}
